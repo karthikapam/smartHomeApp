@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="green">#91fabb</color>
+    <color name="yellow">#fafa8e</color>
+    <color name="grey">#6e6768</color>
+    <color name="blue">#89defa</color>
+    <color name="lavender">#d29dfa</color>
+    <color name="pink">#fa8ecf</color>
+    <color name="red">#f07880</color>
+
+    <color name="lightGrey">#c2c7cf</color> <!-- Green color when switch is on -->
+    <color name="switch_thumb_off">#FF0000</color> <!-- Red color when switch is off -->
+    <color name="switch_track_on">#4CAF50</color> <!-- Light green track color when switch is on -->
+    <color name="switch_track_off">#FFCDD2</color> <!-- Light red track color when switch is off -->
+
+
+</resources>
